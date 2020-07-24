@@ -1,0 +1,4 @@
+#kill compiz completely, including all child processes, freeing it's memory:
+killall -9 compiz & 
+#run unity and give you back a free terminal.
+unity & disown 
