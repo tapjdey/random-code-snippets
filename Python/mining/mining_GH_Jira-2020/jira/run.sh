@@ -1,1 +1,1 @@
-./JIRAminer.py https://issues.apache.org/jira derby tapjdey Iw0nttelly0u!
+./JIRAminer.py https://issues.apache.org/jira derby USERNAME PASSWORD
